@@ -1,4 +1,6 @@
+
 baseURL = "/"
+
 languageCode = "en-GB"
 contentDir = "content"
 enableEmoji = true
